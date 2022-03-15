@@ -1,3 +1,3 @@
 # workflow-testing
 
-I am modifying the readme
+I am modifying the README
